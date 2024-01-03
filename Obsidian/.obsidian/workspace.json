@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "e4b56f7ed074be22",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe0812cc6edf8f90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afb5a21a1906b3f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/Total.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9a1692507a3c625",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0aa60b8f1bb10d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1788b374051504b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "368c4b436e82a246",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "874f9126bf3994e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "1208d0e72d77d13e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "7836900b763f270b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a7f011b345ae752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc8ac3b2ab8c0515",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/Total.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30c660855687c70f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "git/Total.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5903f381194d476e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "055a9ddcf8e08a03",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "git/Total.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "afb5a21a1906b3f2",
+  "lastOpenFiles": [
+    "Vue/work1-page3.md",
+    "Vue/work1-page2.md",
+    "Vue/work1-page1.md",
+    "Vue/page1.md",
+    "Vue/Vue3.md",
+    "Vue/page2.md",
+    "Redis/quick start.md",
+    "Redis/day1.md",
+    "WORK/DAY1.md",
+    "WORK2/DAY4.md",
+    "WORK2/DAY3.md",
+    "WORK2/DAY1.md",
+    "SPRING/day2.md",
+    "SpringBoot/day1.md",
+    "attachment/Pasted image 20240101185828.png",
+    "Element/quickStart.md",
+    "attachment/Pasted image 20231229202637.png",
+    "Element",
+    "attachment/Pasted image 20231224152402.png",
+    "attachment/Pasted image 20231221215743.png",
+    "attachment/Pasted image 20231219185409.png",
+    "attachment/Pasted image 20231028111449.png",
+    "attachment/Pasted image 20231011111918.png",
+    "attachment/Pasted image 20231003134115.png",
+    "attachment/Pasted image 20231011112617.png",
+    "attachment/Pasted image 20231011112633.png",
+    "00tamplates/Markdown.md",
+    "TomCat/Day1.md",
+    "SPRING/day6.md",
+    "git/Total.md",
+    "00inbox/[.md",
+    "00inbox/www.baidu.com.md",
+    "SPRING/day5.md",
+    "SPRING/day3.md",
+    "00tamplates/quick start.md",
+    "WORK2/DAY6.md",
+    "WORK2/DAY5.md",
+    "Vue",
+    "Redis Underlying principles",
+    "C++",
+    "WORK2",
+    "git",
+    "Redis",
+    "WORK",
+    "MyBatisPlus",
+    "SpringBoot"
+  ]
+}
